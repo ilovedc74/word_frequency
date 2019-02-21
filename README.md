@@ -10,4 +10,6 @@ We adopted a category norm set from a thesis conducted by Yeh & Huang, 2002.
 
 And fed the words into the [website](http://elearning.ling.sinica.edu.tw/CWordfreq.html) to extract the frequency.
 
-They were further exported into csv files.
+With use of [regular expression](https://docs.python.org/3/howto/regex.html#regex-howto) to accomplish the task.
+
+Results were exported into csv files.
